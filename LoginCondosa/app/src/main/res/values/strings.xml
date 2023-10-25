@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginCondosa</string>
+    <string name="app_register">Register</string>
+    <string name="app_forgot">Forgot</string>
+</resources>
